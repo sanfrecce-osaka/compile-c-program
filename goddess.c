@@ -1,7 +1,7 @@
 /* ©佐伯英子 http://saeki-ce.xsrv.jp/Cgengo.html */
 #include <stdio.h>
 #include <stdlib.h>
-void  main( )
+int  main( )
 {
    char   buf[128];
    int    n;
