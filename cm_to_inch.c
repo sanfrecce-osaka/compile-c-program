@@ -8,7 +8,7 @@ int  main( )
     double  lc,li;
 
     printf("\n***** 長さの単位変換 *****");
-    printf("\n（アンチメートル→インチ）");
+    printf("\n（センチメートル→インチ）");
     printf("\n\n長さ(cm)： "); fflush(stdout);
 
     gets(c); lc=atof(c);                 // 文字列入力，数値に変換
