@@ -28,4 +28,4 @@ rule '.o' => '.c' do |t|
 end
 
 CLEAN.include(OBJECTS)
-CLOBBER.include(PROGRAM_NAMES)
+CLOBBER.include(program_names)
